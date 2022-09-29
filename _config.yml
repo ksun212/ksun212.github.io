@@ -10,7 +10,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
     - name: Blog
 
 footer:
